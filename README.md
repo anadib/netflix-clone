@@ -9,7 +9,7 @@
   <a href="#page_with_curl-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#thought_balloon-inspiration">Inspiration</a>
-</p> 
+</p>
 
 </br>
 
